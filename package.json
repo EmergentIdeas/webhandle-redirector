@@ -1,0 +1,23 @@
+{
+  "name": "webhandle-redirector",
+  "version": "1.0.0",
+  "description": "Express handlers for redirecting requests",
+  "main": "redirector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmergentIdeas/webhandle-redirector.git"
+  },
+  "keywords": [
+    "express",
+    "redirect"
+  ],
+  "author": "Dan Kolz (Emergent Ideas)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmergentIdeas/webhandle-redirector/issues"
+  },
+  "homepage": "https://github.com/EmergentIdeas/webhandle-redirector#readme"
+}
